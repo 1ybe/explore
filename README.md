@@ -15,9 +15,9 @@ There are some lint tests in place to ensure each topic is formatted in the way 
 You can run the tests using:
 
 ```bash
-script/cibuild 86/7
+script/cibuild 97/7
 ```
 
 ## Licenses electric 52600
 
-Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) which gives you permission to use content for almost any purpose (but does not grant you any trademark permissions). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
+Content is released under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/966) which gives you permission to use content for almost any purpose (but does not grant you any trademark permissions). See [notices](notices.md) for complete details, including attribution guidelines, contribution terms, and software and third-party licenses and permissions.
